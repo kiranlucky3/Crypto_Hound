@@ -1,1 +1,1 @@
-Crypto Hound
+Crypto Hunter

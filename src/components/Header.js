@@ -62,7 +62,7 @@ function Header() {
             >
               <MenuItem value={"USD"}>USD</MenuItem>
               <MenuItem value={"INR"}>INR</MenuItem>
-              <menuItem value={"SEK"}>SEK</menuItem>
+              <MenuItem value={"SEK"}>SEK</MenuItem>
             </Select>
           </Toolbar>
         </Container>
